@@ -1,4 +1,4 @@
-# PortfolioPilot — Prompt 30: Distributed Recovery and Operational Controls
+# Distributed Recovery and Operational Controls
 
 PortfolioPilot is a teaching project: a stock portfolio manager with live news, a portfolio-aware
 AI assistant (built on the Claude Agent SDK), watchlists and alerts. Each numbered prompt asks a
